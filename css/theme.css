@@ -883,6 +883,20 @@ div.col-md-12.text-center h2 {
 	-moz-border-radius: 0.15em;
 	-o-border-radius: 0.15em;
 }
+.p-ww input[type="file"]{
+	background: #fff;
+	color: #757575;
+	font-family: 'Open Sans', sans-serif;
+	cursor: pointer;
+	font-size: 1em;
+	padding: 10px 28px;
+	margin-left: 1em;
+	transition: 0.5s all;
+	-webkit-transition: 0.5s all;
+	-moz-transition: 0.5s all;
+	-o-transition: 0.5s all;
+	outline: none;
+}
 .date{
 	background:url(../images/cal-icon.png) no-repeat 100% 50% #FFF;
 }
