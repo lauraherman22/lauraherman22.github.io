@@ -601,7 +601,7 @@ div.col-sm-10 textarea {
 	transition: all 0.3s ease-in-out;
 }
 div.col-md-12.text-center h2 {
-	padding-bottom: 3%;
+	padding-bottom: 0%;
 }
 /*----start-blog----*/
 .blog-grids-head h3{
