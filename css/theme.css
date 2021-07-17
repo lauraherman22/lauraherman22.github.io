@@ -287,6 +287,12 @@ ul.callbacks_tabs.callbacks1_tabs {
 div.col-md-2 {
 	width: 20%;
 }
+
+.img-container {
+	text-align: center;
+	display: block;
+}
+
 .grid p a {
 	font-family: 'Open Sans', 'sans-serif';
 	font-size: 1em;
