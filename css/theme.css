@@ -137,7 +137,10 @@ div.col-md-12 {
 	padding: 0;
 }
 div.col-md-12.text-left h2 {
-	margin: 0 0 2% 1.2%;
+	margin: 1 0 2% 1.2%;
+	font-family: 'Open Sans', sans-serif;
+	color:#788897;
+	font-weight:400;
 }
 div.blog-head {
 	margin-top: 3%;
